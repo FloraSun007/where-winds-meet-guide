@@ -1,0 +1,140 @@
+@import "tailwindcss";
+
+@theme {
+  --color-wuxia-gold: #d4a017;
+  --color-wuxia-red: #8b0000;
+  --color-wuxia-dark: #0a0a0a;
+  --color-wuxia-gold-light: #e8c547;
+  --color-wuxia-ink: #1a1410;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0c0a09;
+  color: #d6d3d1;
+}
+
+::selection {
+  background-color: rgba(217, 119, 6, 0.3);
+  color: #fff;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1c1917;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #44403c;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #57534e;
+}
+
+/* Ink-wash radial gradient background */
+.ink-wash-bg {
+  background:
+    radial-gradient(ellipse 80% 60% at 50% 30%, rgba(212, 160, 23, 0.06) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 80% at 20% 80%, rgba(139, 0, 0, 0.04) 0%, transparent 60%),
+    radial-gradient(ellipse 40% 40% at 80% 70%, rgba(212, 160, 23, 0.03) 0%, transparent 50%);
+}
+
+/* Subtle wuxia grid pattern */
+.wuxia-pattern {
+  background-image:
+    repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 120px,
+      rgba(212, 160, 23, 0.015) 120px,
+      rgba(212, 160, 23, 0.015) 121px
+    ),
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 120px,
+      rgba(212, 160, 23, 0.015) 120px,
+      rgba(212, 160, 23, 0.015) 121px
+    );
+}
+
+/* Gold shimmer text animation */
+@keyframes gold-shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.gold-shimmer-text {
+  background: linear-gradient(
+    90deg,
+    #d4a017 0%, #fbbf24 25%, #d4a017 50%, #fbbf24 75%, #d4a017 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gold-shimmer 6s linear infinite;
+}
+
+/* Corner accent decorations for cards */
+.corner-accent {
+  position: relative;
+}
+.corner-accent::before,
+.corner-accent::after {
+  content: '';
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  pointer-events: none;
+}
+.corner-accent::before {
+  top: 6px;
+  left: 6px;
+  border-top: 2px solid rgba(212, 160, 23, 0.25);
+  border-left: 2px solid rgba(212, 160, 23, 0.25);
+}
+.corner-accent::after {
+  bottom: 6px;
+  right: 6px;
+  border-bottom: 2px solid rgba(212, 160, 23, 0.25);
+  border-right: 2px solid rgba(212, 160, 23, 0.25);
+}
+
+/* Play button pulse */
+@keyframes play-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(212, 160, 23, 0.4); }
+  50% { box-shadow: 0 0 0 16px rgba(212, 160, 23, 0); }
+}
+.play-button-pulse {
+  animation: play-pulse 2.5s ease-in-out infinite;
+}
+
+/* Skeleton loading shimmer */
+@keyframes skeleton-shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, #292524 25%, #44403c 50%, #292524 75%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.8s ease-in-out infinite;
+  border-radius: 4px;
+}
+
+@keyframes scroll-bounce {
+  0%, 100% { transform: translateY(0); opacity: 0.6; }
+  50% { transform: translateY(8px); opacity: 1; }
+}
+.scroll-indicator {
+  animation: scroll-bounce 2s ease-in-out infinite;
+}

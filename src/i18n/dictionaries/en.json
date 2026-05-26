@@ -1,0 +1,732 @@
+{
+  "meta": {
+    "siteTitle": "Where Winds Meet Guide - Wuxia RPG Walkthrough & Tips",
+    "siteDescription": "The ultimate game guide for Where Winds Meet (燕云十六声). Complete walkthroughs, class guides, equipment tips, dungeon strategies, and everything you need to master the martial arts world of 10th century China."
+  },
+  "siteTitle": "Where Winds Meet Guide",
+  "nav": {
+    "home": "Home",
+    "builds": "Build Guides",
+    "equipment": "Quests",
+    "bosses": "Boss Guides",
+    "systems": "Game Systems",
+    "faq": "FAQ",
+    "exploration": "Exploration",
+    "membership": "Membership"
+  },
+  "hero": {
+    "title": "Master the Martial Arts World",
+    "subtitle": "Where Winds Meet - 燕云十六声",
+    "description": "Your complete guide to surviving and thriving in the turbulent era of Five Dynasties and Ten Kingdoms. Discover combat techniques, class builds, equipment strategies, and the secrets of the Jianghu.",
+    "cta": "Start Your Journey",
+    "ctaSecondary": "Browse Classes"
+  },
+  "features": {
+    "beginners": {
+      "title": "Beginner's Guide",
+      "desc": "Get started with everything you need to know - from basic controls and combat mechanics to early-game progression tips."
+    },
+    "classes": {
+      "title": "Class Guides",
+      "desc": "In-depth breakdowns of all five martial arts classes, including optimal builds, skill rotations, and playstyle recommendations."
+    },
+    "builds": {
+      "title": "Build Guides",
+      "desc": "Complete build guides for all weapon styles with skill priorities, combos, gear recommendations, and progression routes."
+    },
+    "equipment": {
+      "title": "Equipment & Gear",
+      "desc": "Learn about weapon types, armor sets, upgrading systems, and how to gear your character for any challenge."
+    },
+    "dungeons": {
+      "title": "Dungeons & Quests",
+      "desc": "Complete walkthroughs for main story quests, side quests, dungeon encounters, and world boss strategies."
+    },
+    "bosses": {
+      "title": "Boss Guides",
+      "desc": "Detailed mechanics breakdown and strategies for all story, world, and dungeon bosses with phase-by-phase analysis."
+    },
+    "systems": {
+      "title": "Game Systems",
+      "desc": "Deep dives into the homestead system, crafting mechanics, Jianghu interactions, mental energy, and more."
+    },
+    "faq": {
+      "title": "FAQ",
+      "desc": "Quick answers to the most commonly asked questions about Where Winds Meet, from gameplay basics to advanced mechanics."
+    }
+  },
+  "stats": {
+    "players": {
+      "label": "Active Players",
+      "value": "500K+"
+    },
+    "guides": {
+      "label": "Written Guides",
+      "value": "200+"
+    },
+    "classes": {
+      "label": "Playable Classes",
+      "value": "5"
+    },
+    "regions": {
+      "label": "Explorable Regions",
+      "value": "12"
+    }
+  },
+  "homepage": {
+    "hero": {
+      "title": "Where Winds Meet",
+      "subtitle": "The Complete Game Guide",
+      "description": "An open-world martial arts RPG by NetEase, set in the turbulent era between Tang and Song. Our comprehensive guides will help you become a true martial arts master.",
+      "cta": "Begin Your Journey",
+      "ctaSecondary": "Browse All Guides"
+    },
+    "stats": {
+      "players": { "label": "Active Players", "value": "500K+" },
+      "guides": { "label": "Written Guides", "value": "200+" },
+      "classes": { "label": "Playable Classes", "value": "5" },
+      "regions": { "label": "Explorable Regions", "value": "12" }
+    },
+    "features": {
+      "quests": {
+        "title": "Quest Guides",
+        "desc": "Complete walkthroughs for main story, side quests, and hidden encounters."
+      },
+      "builds": {
+        "title": "Build Guides",
+        "desc": "Detailed build guides with skill priorities, combos, and gear recommendations."
+      },
+      "exploration": {
+        "title": "Exploration",
+        "desc": "Discover every corner of the world and collect rare treasures."
+      },
+      "costume": {
+        "title": "Costume Display",
+        "desc": "In-game costume showcase and acquisition guides."
+      },
+      "bosses": {
+        "title": "Boss Guides",
+        "desc": "Detailed mechanics breakdown and strategies for all bosses."
+      }
+    },
+    "news": {
+      "title": "Hot News",
+      "subtitle": "Latest game news and version updates",
+      "viewAll": "View All",
+      "comingSoon": "Coming Soon",
+      "placeholder": "Exciting content is on the way. Stay tuned!",
+      "download": {
+        "title": "Download Game",
+        "subtitle": "Begin your martial arts journey",
+        "global": "Global Official Site",
+        "steam": "Steam Download",
+        "epic": "Epic Games Download",
+        "official": "China Official Download"
+      },
+      "newsItems": [
+        {
+          "title": "Western Media Praises Where Winds Meet PC Performance: Excellent Optimization, Top-Tier Art",
+          "date": "2025-11-18",
+          "image": "/images/news/news-1.jpg",
+          "slug": "pc-performance-review"
+        }
+      ]
+    },
+    "hotGuides": {
+      "title": "Hot Guide Posts",
+      "subtitle": "Community curated guide discussions",
+      "viewAll": "View All",
+      "comingSoon": "Coming Soon",
+      "placeholder": "Community features are under construction. Stay tuned!"
+    },
+    "guideCategories": {
+      "title": "Quick Guides",
+      "sections": [
+        {
+          "key": "adventure",
+          "title": "Adventure Quests",
+          "links": [
+            { "title": "Blade Ring Tale", "href": "/quests" },
+            { "title": "Hundred Arts", "href": "/quests" },
+            { "title": "Skin-and-Bones", "href": "/quests" },
+            { "title": "Sound of Wind", "href": "/quests" },
+            { "title": "Kill the Steed", "href": "/quests" },
+            { "title": "True False Buddha", "href": "/quests" }
+          ]
+        },
+        {
+          "key": "exploration",
+          "title": "Exploration",
+          "links": [
+            { "title": "Treasure Chests", "href": "/exploration" },
+            { "title": "Oddities", "href": "/exploration" },
+            { "title": "Mystic Skills", "href": "/exploration" },
+            { "title": "Old Keepsakes", "href": "/exploration" },
+            { "title": "Meow Meow", "href": "/exploration" },
+            { "title": "Cat Play", "href": "/exploration" }
+          ]
+        },
+        {
+          "key": "boss",
+          "title": "Boss Guides",
+          "links": [
+            { "title": "Formless Emperor", "href": "/bosses" },
+            { "title": "Little Seventeen", "href": "/bosses" },
+            { "title": "Ye Wanshan", "href": "/bosses" },
+            { "title": "Tian Ying", "href": "/bosses" },
+            { "title": "Thousand Nights", "href": "/bosses" }
+          ]
+        },
+        {
+          "key": "beginner",
+          "title": "Beginner's Guide",
+          "links": [
+            { "title": "Class Picks", "href": "/classes" },
+            { "title": "Early Game Guide", "href": "/beginners" },
+            { "title": "Gear Upgrade", "href": "/equipment" },
+            { "title": "Sect Selection", "href": "/systems" },
+            { "title": "FAQ", "href": "/faq" }
+          ]
+        }
+      ]
+    },
+    "cta": {
+      "title": "Begin Your Jianghu Journey",
+      "subtitle": "Choose a guide category and start exploring this vast martial arts world.",
+      "video": {
+        "title": "Game Videos",
+        "comingSoon": "Video feature coming soon"
+      },
+      "categories": {
+        "beginners": { "title": "Beginner's Guide" },
+        "builds": { "title": "Build Guides" },
+        "classes": { "title": "Class Guides" },
+        "equipment": { "title": "Equipment" },
+        "bosses": { "title": "Boss Guides" },
+        "exploration": { "title": "Exploration" }
+      },
+      "allGuides": "Browse All Guides"
+    }
+  },
+  "beginners": {
+    "title": "Beginner's Guide",
+    "subtitle": "Everything you need to start your journey through the martial arts world of Where Winds Meet",
+    "sections": {
+      "gettingStarted": {
+        "title": "Getting Started",
+        "content": [
+          "Where Winds Meet is an open-world Wuxia RPG developed by NetEase, set in the tumultuous era of the Five Dynasties and Ten Kingdoms (10th century China). As a wandering martial artist, you will explore a vast and beautifully rendered world inspired by classical Chinese landscape paintings.",
+          "After creating your character, you will begin in the prologue region which serves as a tutorial area. Take your time here to learn the fundamental combat mechanics, movement systems, and basic crafting. The prologue introduces you to the game's core philosophy: mastery comes through practice and exploration.",
+          "Pay close attention to the dialogues with NPCs during the early story. Many key game mechanics - such as the Jianghu reputation system and mental energy management - are introduced organically through story beats. Missing these tutorials can make the early game feel overwhelming.",
+          "Your first major decision is choosing a starting class. While you can change classes later in the game, your initial choice determines your early combat style and the first few hours of gameplay. We recommend trying each class in the practice arena before committing."
+        ]
+      },
+      "controls": {
+        "title": "Combat Controls & Mechanics",
+        "content": [
+          "Where Winds Meet features a deep martial arts combat system built around light attacks, heavy attacks, parries, and dodges. Each class has unique combo chains that flow from basic inputs. Timing your inputs precisely activates enhanced versions of moves with additional damage and effects.",
+          "The parry system is central to high-level combat. Pressing the block button at the exact moment an enemy attack lands triggers a perfect parry, which negates all incoming damage and opens a brief counterattack window. Some elite enemies and bosses can only be efficiently damaged after a successful parry.",
+          "Martial Skills (Qinggong) allow vertical and horizontal mobility - wall-running, grappling, and aerial dashes are essential for both exploration and combat. Practice these movement skills early, as many hidden areas and collectibles require advanced traversal techniques.",
+          "The stance system adds another layer to combat. Each class can switch between offensive and defensive stances, altering available moves and passive bonuses. Learning when to switch stances mid-combo is key to maximizing your damage output and survivability."
+        ]
+      },
+      "progression": {
+        "title": "Early Game Progression",
+        "content": [
+          "Follow the main storyline through the first three chapters before venturing into side content. The main quest unlocks essential features like the homestead system, crafting stations, and fast travel points. Skipping ahead to side activities without these systems can slow your overall progress.",
+          "Experience is earned through combat, quest completion, discovering new locations, and successful crafting attempts. The game rewards exploration heavily - wandering off the beaten path often leads to hidden training manuals, rare crafting materials, and unique NPC encounters that grant bonus experience.",
+          "Manage your Mental Energy (精神力) carefully in the early game. Mental Energy governs your ability to learn new techniques and craft high-quality items. It regenerates slowly over time and can be restored with specific consumables. Avoid wasting it on low-value crafts early on.",
+          "Join a sect or school as soon as the option becomes available. Sect membership provides access to exclusive training, unique equipment blueprints, and a network of NPCs who offer additional quests. Each sect has its own storyline and reputation track."
+        ]
+      },
+      "tips": {
+        "title": "Tips for New Players",
+        "content": [
+          "Don't rush through dialogue. Where Winds Meet's story contains critical hints about boss weaknesses, hidden quest triggers, and optimal exploration routes. Many players miss important clues by skipping through conversations too quickly.",
+          "Upgrade your weapons before your armor in the early game. Enemies deal manageable damage if you learn to parry, but killing them faster reduces the margin for error. A well-upgraded weapon makes most early encounters significantly easier.",
+          "Explore every region thoroughly before moving on. Each area contains a set of collectible training scrolls that permanently improve your character's base stats. These bonuses are small individually but add up significantly over the course of the game.",
+          "Use the Jianghu system to build relationships with key NPCs early. High reputation with the right characters unlocks exclusive shops, additional quest lines, and powerful allies who can assist you in difficult combat encounters.",
+          "Save your premium currency (Gold Ingots) for inventory expansion and the eventual class change feature. Cosmetic items are tempting but provide no gameplay advantage, and most can be earned through regular gameplay over time.",
+          "Practice your combos in the training ground accessible from any major town. The training dummies display real-time damage numbers and combo counters, helping you optimize your skill rotation without wasting resources in the field."
+        ]
+      }
+    }
+  },
+  "classes": {
+    "title": "Class Guides",
+    "subtitle": "Choose your path in the martial arts world - each class offers a unique combat experience",
+    "classList": {
+      "swordsman": {
+        "name": "Swordsman",
+        "subtitle": "The Balanced Blade",
+        "description": "The Swordsman is the most versatile class in Where Winds Meet, wielding the traditional Chinese straight sword (Jian) with fluid grace. Masters of the balanced approach, Swordsmen excel at both offense and defense, making them the ideal choice for players who want adaptability in any situation. Their combat style emphasizes precise strikes, elegant combos, and the ability to seamlessly switch between aggressive and defensive stances.",
+        "strengths": [
+          "Well-rounded stats with no major weaknesses",
+          "Excellent parry timing windows make counter-attacks reliable",
+          "Strong in both single-target and group encounters",
+          "Easy to learn, with a high skill ceiling for advanced players",
+          "Access to powerful counter-attack combo chains"
+        ],
+        "weaknesses": [
+          "Lacks the burst damage of specialized classes",
+          "No exceptional ranged options",
+          "Relies heavily on parry timing for maximum effectiveness",
+          "Can feel basic compared to more mechanically complex classes"
+        ],
+        "playstyle": "Swordsmen thrive in the hands of players who enjoy a reactive combat style. Engage enemies with measured aggression, wait for the perfect parry window, then unleash devastating counter combos. In group content, Swordsmen serve as reliable damage dealers who can adapt to any situation."
+      },
+      "spearmaster": {
+        "name": "Spearmaster",
+        "subtitle": "The Dragon's Reach",
+        "description": "The Spearmaster commands the battlefield with the longest melee range in the game, wielding a traditional Chinese spear (Qiang) with sweeping arcs and devastating thrusts. This class excels at controlling space, keeping enemies at bay, and delivering powerful area-of-effect attacks. The Spearmaster's reach advantage makes them particularly effective against groups and in PvP encounters where spacing is critical.",
+        "strengths": [
+          "Longest melee attack range in the game",
+          "Exceptional crowd control with sweeping spear attacks",
+          "Strong area-of-effect damage for group encounters",
+          "Superior spacing tools for PvP combat",
+          "Can hit multiple enemies with a single attack chain"
+        ],
+        "weaknesses": [
+          "Vulnerable at close range against fast enemies",
+          "Slower attack speed compared to other classes",
+          "Combo execution requires more space to be effective",
+          "Less effective in tight corridors and confined areas"
+        ],
+        "playstyle": "The Spearmaster is all about range control and battlefield positioning. Use your superior reach to poke enemies from safety, and when groups approach, unleash wide sweeping attacks to control the flow of combat. Maintain distance and use mobility skills to reset positioning when enemies get too close."
+      },
+      "healer": {
+        "name": "Healer",
+        "subtitle": "The Divine Harmony",
+        "description": "The Healer channels the power of Qi to restore allies and weaken enemies, wielding a fan and talisman as conduits for spiritual energy. Unlike traditional support classes, Where Winds Meet's Healer maintains offensive capabilities through debuffs, damage-over-time effects, and powerful qi-based attacks. This makes the Healer a compelling choice for players who want to support their team while remaining actively engaged in combat.",
+        "strengths": [
+          "Essential for high-level group content and dungeons",
+          "Sustained healing keeps the entire party alive through tough encounters",
+          "Powerful debuffs significantly reduce enemy threat levels",
+          "Decent damage output through qi-based attacks and DoT effects",
+          "Can revive fallen allies during combat"
+        ],
+        "weaknesses": [
+          "Low base health makes the Healer fragile in close combat",
+          "Healing effectiveness drops when the healer is being targeted",
+          "Solo progression is slower than other classes",
+          "Requires good positioning awareness to stay safe while healing"
+        ],
+        "playstyle": "The Healer operates best when managing the battlefield from a distance. Apply healing-over-time effects to allies, then use offensive Qi abilities to damage enemies and apply debuffs. Position yourself behind your allies and use crowd-control abilities to create space when enemies target you."
+      },
+      "blademaster": {
+        "name": "Blademaster",
+        "subtitle": "The Fury of Steel",
+        "description": "The Blademaster is a high-octane melee class wielding dual curved blades (Dao) with relentless aggression. This class sacrifices defense for raw offensive power, featuring the fastest attack speed and highest sustained damage output in the game. Blademasters chain together rapid combos that build momentum, increasing attack speed and damage the longer they maintain an offensive without taking hits.",
+        "strengths": [
+          "Highest sustained damage output in the game",
+          "Fastest attack speed allows for rapid combo building",
+          "Momentum system rewards aggressive play with increasing damage",
+          "Excels at burning down single high-health targets quickly",
+          "Visually spectacular combo chains that feel rewarding to execute"
+        ],
+        "weaknesses": [
+          "Very low defense means mistakes are heavily punished",
+          "Momentum drops when hit, reducing damage significantly",
+          "Limited defensive options beyond basic dodge",
+          "Stamina management is critical and unforgiving",
+          "Struggles in prolonged fights if momentum cannot be maintained"
+        ],
+        "playstyle": "The Blademaster is built for players who love aggressive, fast-paced combat. Dive into fights, build your momentum meter through uninterrupted combos, and unleash devastating finishers when momentum peaks. Dodge is your primary defensive tool - learn enemy attack patterns to avoid damage and maintain your offensive flow."
+      },
+      "brawler": {
+        "name": "Brawler",
+        "subtitle": "The Iron Fist",
+        "description": "The Brawler is a close-quarters tank class that uses fists, gauntlets, and grappling techniques to dominate enemies at point-blank range. Built around a unique rage mechanic, Brawlers absorb damage to fuel devastating counter-attacks and grab combos. Their high health pool and innate damage reduction make them the most durable class, capable of standing toe-to-toe with the game's toughest bosses.",
+        "strengths": [
+          "Highest base health and damage reduction in the game",
+          "Rage mechanic turns incoming damage into offensive power",
+          "Powerful grapple and throw abilities for crowd control",
+          "Excellent boss tanking capabilities for group content",
+          "Simple but satisfying combo execution"
+        ],
+        "weaknesses": [
+          "Very short attack range requires getting dangerously close",
+          "Slow movement speed compared to other melee classes",
+          "Limited ranged attack options",
+          "Lower overall damage output when not using rage abilities",
+          "Can be kited effectively in PvP encounters"
+        ],
+        "playstyle": "The Brawler embraces the philosophy of absorbing punishment and returning it tenfold. Stand your ground, build rage by tanking hits, then unleash powerful grapple combos and rage-fueled attacks. In group content, the Brawler serves as the primary tank, holding boss aggro while the rest of the party deals damage."
+      }
+    }
+  },
+  "equipment": {
+    "title": "Equipment & Gear Guide",
+    "subtitle": "Understand the gear system to outfit your martial artist for any challenge",
+    "sections": {
+      "overview": {
+        "title": "Equipment System Overview",
+        "content": [
+          "Where Winds Meet features a tiered equipment system with five rarity levels: Common (white), Uncommon (green), Rare (blue), Epic (purple), and Legendary (gold). Each tier increases base stats and the number of available enhancement slots. Equipment is obtained through enemy drops, quest rewards, crafting, and world exploration.",
+          "Your character has several equipment slots: Primary Weapon, Secondary Weapon, Head Armor, Body Armor, Hand Armor, Leg Armor, Foot Armor, and two Accessory slots. Each slot contributes to your overall combat rating, and set bonuses from matching armor pieces provide powerful additional effects.",
+          "Equipment level is independent of your character level. You can equip any item at any character level, but the effectiveness of equipment is scaled based on your proficiency with that weapon or armor type. This means a high-level sword in the hands of a new player will perform worse than its stats suggest.",
+          "Durability is a factor for all equipment. Items degrade with use and must be repaired at blacksmith NPCs found in major towns. Letting durability reach zero temporarily disables the item's stats and bonuses until repaired. Carrying repair kits in your inventory allows field repairs during extended exploration sessions."
+        ]
+      },
+      "weapons": {
+        "title": "Weapon Types",
+        "content": [
+          "Each class has access to a primary and secondary weapon type. The Swordsman uses the Jian (straight sword) and can equip a shield in the off-hand. The Spearmaster wields the Qiang (spear) with variants including the short spear for faster attacks and the long spear for extended reach.",
+          "The Healer uses a fan (Shan) as a primary weapon for channeling Qi, with talismans as a secondary tool for applying buffs and debuffs. The Blademaster wields dual Dao (curved blades) that can be swapped for a single heavy saber for slower but more powerful strikes.",
+          "The Brawler uses fist weapons and gauntlets, with heavy gauntlets offering more damage at the cost of attack speed. Secondary grappling chains can be equipped for extended combo options and crowd control pulls.",
+          "Weapon specials are unique abilities tied to individual weapons rather than the class itself. A rare Jian might have a freezing effect on critical hits, while a legendary Qiang could grant temporary invincibility after a successful parry. These specials add significant variety within each class and make finding the right weapon an important part of the build process."
+        ]
+      },
+      "upgrading": {
+        "title": "Upgrading & Enhancement",
+        "content": [
+          "Equipment upgrades are performed at blacksmith NPCs using crafting materials gathered from the world. Each upgrade level increases base stats by a fixed percentage. Upgrading is generally more resource-efficient than trying to find a higher-tier item of the same level, especially for Epic and Legendary equipment.",
+          "Enhancement slots can be filled with gems and runes found throughout the world or purchased from vendors. Gems provide flat stat bonuses (attack power, critical rate, health), while runes offer special effects (life steal, bonus damage against specific enemy types, elemental resistances). Choose enhancements that complement your class strengths.",
+          "The Soul Infusion system, unlocked at level 30, allows you to transfer stats from one piece of equipment to another. This is the primary endgame gearing mechanic - find a Legendary item with great special effects, then infuse it with stats from your best upgraded gear. Soul Infusion is expensive but preserves your investment in upgraded equipment.",
+          "Don't over-invest in upgrading Common or Uncommon gear. Resources become more scarce at higher upgrade levels, and you will outlevel low-tier equipment quickly. Focus upgrading resources on Rare and above items that you plan to use for an extended period."
+        ]
+      },
+      "sets": {
+        "title": "Armor Sets & Set Bonuses",
+        "content": [
+          "Armor sets in Where Winds Meet provide powerful bonuses when multiple pieces from the same set are equipped simultaneously. Most sets have bonuses at 2-piece, 4-piece, and full 6-piece thresholds. The 2-piece bonus is typically a moderate stat boost, while the 6-piece bonus often fundamentally changes how a class plays.",
+          "Early game sets like the Traveler's Garb and Militia Armor are easy to obtain and provide solid bonuses for new players. The Traveler's Garb set increases movement speed and exploration-related stats, making it ideal for the early game when you are discovering the map. The Militia Armor set boosts defense and health regeneration.",
+          "Mid-game sets include the Shadow Dancer set (agility and critical damage), the Iron Fortress set (defense and damage reduction), and the Jade Scholar set (Qi regeneration and healing power). These sets are obtained through dungeon rewards and faction reputation vendors.",
+          "Endgame Legendary sets like the Dragon Emperor's Battlegear and the Heavenly Cloud Raiment are the ultimate goal for dedicated players. These sets require materials from the hardest dungeons, world bosses, and high-level crafting. Each Legendary set is tailored to a specific class and dramatically enhances that class's core mechanics."
+        ]
+      }
+    }
+  },
+  "dungeons": {
+    "title": "Dungeons & Quest Guide",
+    "subtitle": "Complete walkthroughs for every dungeon, quest, and world boss encounter",
+    "sections": {
+      "mainQuest": {
+        "title": "Main Story Questline",
+        "content": [
+          "The main story of Where Winds Meet follows your character's journey through a war-torn China during the Five Dynasties and Ten Kingdoms period. The narrative spans eight chapters, each set in a distinct region with its own political tensions, martial arts schools, and ancient mysteries to uncover.",
+          "Chapter 1 (The Wandering Swordsman) serves as the tutorial and introduction, establishing your character's background and basic combat skills. Chapter 2 (The Burning Village) introduces the game's central conflict and your first real boss encounters. By Chapter 3 (The Hidden Temple), you will have chosen a class and begun developing your unique combat style.",
+          "The mid-game chapters (4-6) are where the story truly shines, introducing complex political intrigue, moral choices that affect later story beats, and some of the most memorable boss fights in the game. Chapter 5 (The Jianghu Trials) is a particular highlight, featuring a multi-stage tournament that tests everything you have learned.",
+          "The final chapters (7-8) bring the narrative to a climactic conclusion with massive set-piece battles, revelations about the world's lore, and a final confrontation that changes based on your choices throughout the game. The story takes approximately 40-60 hours to complete on a first playthrough."
+        ]
+      },
+      "sideQuests": {
+        "title": "Side Quests & Activities",
+        "content": [
+          "Where Winds Meet features hundreds of side quests ranging from simple delivery tasks to multi-stage storylines with their own unique rewards. Side quests are marked on your map with different indicators: yellow for standard quests, blue for repeatable daily quests, and purple for rare hidden quests with exceptional rewards.",
+          "Hidden quests are not marked on the map and are discovered through environmental cues, NPC dialogue hints, or reaching specific locations at certain times of day. These hidden quests often reward unique equipment, exclusive cosmetic items, and lore entries that expand the game's backstory.",
+          "The Bounty Board in each major town offers repeatable combat quests targeting specific enemy types or named elite enemies. Bounties refresh daily and are an excellent source of experience, gold, and crafting materials. Higher-tier bounties require a group but offer proportionally better rewards.",
+          "Exploration activities include discovering scenic viewpoints (which unlock fast travel points), finding hidden treasure chests, completing platforming challenges, and uncovering ancient inscriptions that grant permanent stat bonuses. Completing all activities in a region earns a completion reward and unlocks that region's mastery bonus."
+        ]
+      },
+      "dungeons": {
+        "title": "Dungeon Encounters",
+        "content": [
+          "Dungeons in Where Winds Meet are instanced combat challenges designed for groups of 2-4 players. Each dungeon features a series of trash mob encounters, mini-bosses, and a final boss with unique mechanics. Dungeons are the primary source of Rare and Epic equipment, crafting materials, and upgrade components.",
+          "Standard dungeons become available at level 15 and can be accessed through the Dungeon Finder or by physically traveling to the dungeon entrance. Each dungeon has three difficulty levels: Normal (story mode), Hard (requires coordination), and Nightmare (endgame challenge with unique mechanics).",
+          "Notable early dungeons include the Forgotten Crypt (levels 15-20), which introduces group mechanics and boss phases, and the Crimson Pagoda (levels 25-30), a multi-floor tower challenge with increasing difficulty. The Shadow Sanctum (levels 35-40) is considered the first real challenge, requiring precise coordination and class synergy.",
+          "Endgame dungeons like the Heavenly Palace and the Demon King's Domain are the pinnacle of PvE content. These dungeons feature complex boss mechanics, require optimized gear, and demand flawless execution from all party members. Completing them on Nightmare difficulty is required for the best Legendary equipment."
+        ]
+      },
+      "worldBosses": {
+        "title": "World Bosses",
+        "content": [
+          "World bosses are powerful enemies that spawn in the open world on a fixed schedule. These encounters are designed for large groups of players and feature multi-phase fights with mechanics that require coordination across the entire raid. World boss spawns are announced server-wide and typically draw 20-50 players.",
+          "Each world boss has unique mechanics, phase transitions, and enrage timers. The Jade Dragon of the Eastern Peaks is the most accessible world boss, serving as an introduction to large-scale encounters. The Ghost General of the Northern Wastes is significantly harder, requiring dedicated tanks, healers, and coordinated damage rotations.",
+          "World boss rewards are distributed based on contribution. Players who deal more damage, heal more, or tank more hits receive better reward chests. However, all participants receive a minimum reward, ensuring that even lower-level players benefit from joining these encounters.",
+          "The respawn timer for world bosses ranges from 4 to 12 hours depending on the boss. Coordinating with your sect or a dedicated raid group is the best way to ensure you participate in these encounters. Many sects schedule regular world boss hunting sessions."
+        ]
+      }
+    }
+  },
+  "systems": {
+    "title": "Game Systems Guide",
+    "subtitle": "Master every system Where Winds Meet has to offer - from homestead building to Jianghu politics",
+    "sections": {
+      "homestead": {
+        "title": "Homestead System",
+        "content": [
+          "The Homestead is your personal base of operations, unlocked during Chapter 2 of the main story. It starts as a small camp and can be expanded into a sprawling estate with multiple buildings, gardens, training grounds, and crafting stations. The Homestead serves as a hub for many of the game's systems.",
+          "Building and upgrading structures requires resources gathered from the world, purchased from vendors, or crafted at existing stations. Each building serves a specific purpose: the Training Hall lets you practice combos and earn passive stat bonuses, the Forge enables weapon crafting and upgrading, the Herb Garden grows ingredients for consumables, and the Library provides lore entries and map information.",
+          "Your Homestead can be visited by other players if you choose to make it public. Visiting players can interact with certain buildings, leave messages, and even assist with timed events like bandit raids that periodically threaten your estate. Successfully defending your Homestead rewards unique decorative items and rare crafting materials.",
+          "Homestead customization is extensive, with hundreds of decorative items, furniture sets, and landscape features available. While most decorations are purely cosmetic, some functional items like training dummies, crafting stations, and resource nodes provide tangible gameplay benefits."
+        ]
+      },
+      "crafting": {
+        "title": "Crafting System",
+        "content": [
+          "Where Winds Meet features a multi-discipline crafting system with five main professions: Blacksmithing (weapons and metal armor), Tailoring (cloth and leather armor), Alchemy (consumables and buff items), Cooking (food that provides temporary stat boosts), and Engineering (gadgets, traps, and siege equipment).",
+          "Each profession has its own skill level that increases as you craft items. Higher profession levels unlock new recipes and improve the quality of crafted items. Quality is determined partly by skill level and partly by a random factor, though using rarer materials increases the chance of producing higher-quality results.",
+          "Crafting consumables is especially important for challenging content. High-level foods provide substantial stat bonuses that can make the difference in difficult boss encounters. Alchemy potions offer healing, damage buffs, elemental resistance, and even temporary combat ability enhancements.",
+          "Materials are gathered from the world (mining nodes, herb patches, animal hides), obtained as enemy drops, or purchased from vendors. Rare materials are found in specific regions or dropped by specific enemies, encouraging exploration and targeted farming. The Material Exchange in major towns lets you trade surplus materials for ones you need at a ratio."
+        ]
+      },
+      "jianghu": {
+        "title": "Jianghu Interaction System",
+        "content": [
+          "The Jianghu system is Where Winds Meet's unique social and reputation framework, simulating the complex web of relationships in the martial arts underworld. Every NPC faction, sect, and notable character has a relationship meter with your character that changes based on your actions, dialogue choices, and which quests you complete.",
+          "Building reputation with a faction unlocks exclusive quests, vendors, and storylines. However, helping one faction often reduces your standing with their rivals, creating meaningful choices about which alliances to pursue. It is impossible to maintain maximum reputation with all factions simultaneously, so your choices have lasting consequences.",
+          "The Jianghu system extends to other players as well. You can form rivalries, alliances, and even sworn sibling bonds with other players through the relationship system. These connections provide gameplay benefits: allies can assist you in certain encounters, while rivals may appear as challenging enemies in your PvE content.",
+          "Bounty and vendetta mechanics add consequences to player interactions. If you defeat another player in PvP, they can place a bounty on you, making you a target for other bounty hunters. Conversely, tracking and defeating wanted players earns you Jianghu reputation and unique rewards."
+        ]
+      },
+      "energy": {
+        "title": "Mental Energy System",
+        "content": [
+          "Mental Energy (精神力) is a regenerating resource that governs several important game systems. It is consumed when learning new techniques, crafting high-quality items, attempting difficult dialogue checks, and performing certain exploration actions. Mental Energy regenerates slowly over time and can be restored with specific consumables or by resting at your Homestead.",
+          "The maximum Mental Energy pool increases as your character progresses, primarily through story milestones and completing certain training challenges. Efficient management of Mental Energy is crucial - wasting it on low-value activities early in the game can slow your progression significantly.",
+          "Learning new martial arts techniques is the primary use of Mental Energy. Each technique costs a set amount, and more powerful techniques naturally cost more. You can unlearn techniques to reclaim a portion of the spent Mental Energy, allowing you to respec your build, though this is intentionally not a full refund to discourage constant respeccing.",
+          "High-level crafting and legendary item creation require significant Mental Energy investment. This creates a natural choice between combat progression (learning techniques) and gear progression (crafting items). Balancing these two systems is a key aspect of character development strategy."
+        ]
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Quick answers to the most common questions about Where Winds Meet",
+    "tabs": {
+      "beginners": "Beginner's Guide",
+      "faq": "FAQ"
+    },
+    "questions": [
+      {
+        "q": "Is Where Winds Meet free to play?",
+        "a": "Where Winds Meet is a buy-to-play game with an optional premium membership. The base game includes all story content, classes, and core gameplay systems. The premium membership provides convenience features like increased experience gain, additional inventory space, and cosmetic items, but does not provide pay-to-win combat advantages."
+      },
+      {
+        "q": "Can I change my class after starting the game?",
+        "a": "Yes, you can change your class by visiting the Class Master NPC in the capital city. This feature unlocks after completing Chapter 3 of the main story. Changing classes resets your class-specific skill tree but preserves your character level, equipment, and non-class-specific progress. There is a cooldown period between class changes."
+      },
+      {
+        "q": "How does the combat system work?",
+        "a": "Combat in Where Winds Meet is action-based with light attacks, heavy attacks, parries, dodges, and class-specific martial arts skills. Timing is critical - perfect parries open counterattack windows, and chaining combos in sequence activates enhanced moves. Each class has two stances that alter available moves, and switching stances mid-combo is key to advanced play."
+      },
+      {
+        "q": "Is there PvP in Where Winds Meet?",
+        "a": "Yes, Where Winds Meet features both structured PvP arenas and open-world PvP in designated zones. Arena PvP is ranked and matched by skill rating, while open-world PvP is governed by the Jianghu system with bounties, vendettas, and reputation consequences. PvP is entirely optional and you can enjoy the full game without participating."
+      },
+      {
+        "q": "How long is the main story?",
+        "a": "The main story takes approximately 40-60 hours to complete on a first playthrough. Including side quests, exploration, and optional content, most players spend 100-150 hours before reaching the endgame. The game receives regular content updates that add new story chapters, dungeons, and activities."
+      },
+      {
+        "q": "What are the system requirements?",
+        "a": "The minimum requirements include an Intel i5-8400 or AMD Ryzen 5 2600 processor, 16GB RAM, and an NVIDIA GTX 1060 or AMD RX 580 graphics card. Recommended specs are an Intel i7-10700 or AMD Ryzen 7 3700X, 16GB RAM, and an NVIDIA RTX 3060 or AMD RX 6700 XT. An SSD is strongly recommended for fast loading times."
+      },
+      {
+        "q": "Can I play Where Winds Meet solo?",
+        "a": "Absolutely. The vast majority of content - including the entire main story, most side quests, and exploration - can be completed solo. Only the highest-level dungeons and some world boss encounters require groups. The game also features AI companion NPCs that can assist in solo play for challenging content."
+      },
+      {
+        "q": "How does the Homestead system work?",
+        "a": "The Homestead is your personal base unlocked in Chapter 2. You can build and upgrade structures like training halls, forges, gardens, and living quarters. It serves as a crafting hub, training ground, and social space. Other players can visit your Homestead if you make it public, and you can participate in homestead defense events for rewards."
+      },
+      {
+        "q": "What is the Jianghu system?",
+        "a": "The Jianghu system is Where Winds Meet's reputation and relationship framework. Your actions affect your standing with various NPC factions and characters. Building reputation unlocks exclusive content, but helping one faction may reduce standing with their rivals. The system also extends to player relationships, enabling alliances and rivalries."
+      },
+      {
+        "q": "How often does the game receive updates?",
+        "a": "NetEase releases major content updates approximately every 6-8 weeks, adding new story chapters, dungeons, equipment, and features. Smaller patches addressing balance changes, bug fixes, and quality-of-life improvements are released weekly. Seasonal events with exclusive rewards occur roughly every 2-3 months."
+      }
+    ]
+  },
+  "exploration": {
+    "title": "Exploration & Collection",
+    "subtitle": "Discover every corner of the world — collect treasure chests, curiosities, strange arts, and more.",
+    "regionOrder": ["qinghe", "kaifeng", "hexi", "hexi_liangzhou", "hexi_qinchuan"],
+    "regionNames": {
+      "qinghe": "Qinghe",
+      "kaifeng": "Kaifeng",
+      "hexi": "Hexi",
+      "hexi_liangzhou": "Hexi - Liangzhou",
+      "hexi_qinchuan": "Hexi - Qinchuan"
+    },
+    "regionLocations": {
+      "qinghe": ["General's Shrine", "Battlecrest Slope", "Bamboo Abode", "Stonewash Strand", "Immortal Ferry", "Weakwater Shore", "Kilnfire Ridge", "Blissful Retreat", "Wildmane Ranch", "Buddha Fort", "Finesteed Hamlet", "Nextlife Shore", "Harvestfall Village", "Firefly Abyss", "Oblivion Plain", "Riverside Station", "Witherwilds", "Twinbeast Ridge", "Peace Bell Tower", "Encircling Lake", "Sage's Knoll", "Palace of Annals", "Crimson Cliff", "Flower Expanse", "Mercyheart Town", "Thousand-Buddha Village", "Jadebrook Mountain", "Mercyheart Monastery", "Bodhi Sea", "Halo Peak"],
+      "kaifeng": ["Plainfield", "Kaifeng Suburbs South", "Da'an Village", "Kaifeng Suburbs East", "Mistveil Forest", "Ever-Normal Granary", "Sorrowfield Village", "Ethereal Mountain", "Six-Ailment Clinic", "Clearheart Garden", "Velvet Shade", "Fairgrounds", "Caomen Avenue", "South Gate Avenue", "Imperial Artisan Court", "Kaifeng Prefecture", "Furnace Area", "Prosperity Haven", "Jinming Pool", "Baima Crossing", "Ghostlight Market"],
+      "hexi": ["Lost Crossing", "Golden Sands River", "Jade-Mirrored Spring", "Jiuquan", "Cleardew Terrace"],
+      "hexi_liangzhou": ["Steed's Pass"],
+      "hexi_qinchuan": ["Xiao Pass Old Road", "Rustling Meadow", "Lion Barrow", "Marsh Plain", "The Huayu Road"]
+    },
+    "regionLocationKeys": {
+      "qinghe": ["将军祠", "七阙坡", "竹林旧居", "浣石浦", "神仙渡", "弱水岸", "烧瓷岭", "不羡仙", "不伏马场", "佛爷寨", "伏马庄", "来生岸", "丰禾村", "萤渊", "忘川坪", "临江驿", "荒蚀林", "龙虎岭", "太平钟楼", "抱山湖", "藏贤岗", "春秋别院", "丹崖", "花海", "慈心镇", "千佛村", "壁泉山", "慈心山院", "菩提苦海", "佛光顶"],
+      "kaifeng": ["平野原", "开封南郊", "达安村", "开封东郊", "隐雾林", "常平仓", "承恩镇", "鹰愁岭", "六疾馆", "清心圃", "醉花阴", "勾栏瓦肆", "角门里", "南门大街", "百工坊", "开封府", "熔炉区", "寿昌坊", "金明池", "白马津", "鬼市子"],
+      "hexi": ["迷津渡", "金沙川", "玉池", "酒泉镇", "玉露台"],
+      "hexi_liangzhou": ["饮马隘"],
+      "hexi_qinchuan": ["萧关古道", "扶风甸", "狮子坟", "荡莽原", "华舆道"]
+    },
+    "locCount": "{n} locations",
+    "pending": "Coming soon",
+    "stepCount": "{n} steps",
+    "zoomView": "Click images to view full size",
+    "collapse": "Collapse",
+    "stepAlt": "Step {n}-{m}",
+    "sourceAli213": "Guide source: Ali213 · For reference only, actual in-game conditions may vary",
+    "sourceVideo": "Guide source: Bilibili video · For reference only, please watch the original video for details",
+    "guidePending": "The {cat} guide for this area is being prepared. Stay tuned!",
+    "categories": {
+      "baoxiang": {
+        "title": "Chests",
+        "subtitle": "Hidden treasures scattered across the Jianghu"
+      },
+      "qijiao": {
+        "title": "Oddities",
+        "subtitle": "Strange phenomena worth investigating"
+      },
+      "qishu": {
+        "title": "Mystic Skills",
+        "subtitle": "Lost esoteric techniques and skills"
+      },
+      "qianchenjiuwu": {
+        "title": "Old Keepsakes",
+        "subtitle": "Seek precious artifacts from bygone eras"
+      },
+      "yingdi": {
+        "title": "Camps",
+        "subtitle": "Rest stops for Jianghu travelers"
+      },
+      "bupingshi": {
+        "title": "Injustice",
+        "subtitle": "Draw your blade when you witness unfairness"
+      },
+      "miaomiaomiao": {
+        "title": "Meow Meow",
+        "subtitle": "Follow Meow Meow's trail to hidden treasures"
+      },
+      "maoxi": {
+        "title": "Cat Play",
+        "subtitle": "Play with the cats of the Jianghu"
+      },
+      "jianghuguren": {
+        "title": "Old Friends",
+        "subtitle": "Reunite with old companions of the Jianghu"
+      },
+      "qujingxinyou": {
+        "title": "Hidden Paths",
+        "subtitle": "Explore secret trails to discover hidden paradises"
+      },
+      "tiandiwanlai": {
+        "title": "Graceful Melodies",
+        "subtitle": "Listen to the most beautiful sounds between heaven and earth"
+      }
+    }
+  },
+  "mysticSkills": {
+    "title": "Mystic Skills Guide",
+    "subtitle": "Master the lost esoteric arts — discover how to acquire and use every unique mystic skill.",
+    "allTypes": "All",
+    "skillCount": "{n} Mystic Skills",
+    "offensive": "Offensive",
+    "general": "General",
+    "movement": "Movement",
+    "entertainment": "Entertainment",
+    "defaultSkill": "Default",
+    "collapse": "Collapse",
+    "howToGet": "How to Acquire",
+    "noSkillSelected": "Select a skill to view its acquisition guide",
+    "seeFullGuide": "View Full Mystic Skills Guide →",
+    "qishuRedirect": "Mystic Skills have been moved to a dedicated page. Visit the full guide for complete skill catalog and acquisition details."
+  },
+  "membership": {
+    "title": "Premium Membership",
+    "subtitle": "Enhance your journey through the martial arts world with exclusive benefits",
+    "features": [
+      {
+        "title": "Ad-Free Experience",
+        "desc": "Browse all guides and content without any advertisements, giving you a clean and focused reading experience."
+      },
+      {
+        "title": "Early Access Guides",
+        "desc": "Get access to new guides and walkthroughs 48 hours before they are available to free users, including day-one content for new updates."
+      },
+      {
+        "title": "Build Calculator Pro",
+        "desc": "Access the advanced build calculator with optimization suggestions, stat comparison tools, and shareable build links."
+      },
+      {
+        "title": "Interactive Maps",
+        "desc": "Full interactive world maps with filterable markers for collectibles, quests, resources, points of interest, and hidden locations."
+      },
+      {
+        "title": "Priority Support",
+        "desc": "Get your questions answered first by our expert team, with guaranteed responses within 24 hours."
+      },
+      {
+        "title": "Exclusive Content",
+        "desc": "Access premium-only content including video guides, in-depth analysis articles, and developer interview summaries."
+      }
+    ],
+    "pricing": {
+      "monthly": {
+        "price": "$4.99",
+        "label": "per month"
+      },
+      "annual": {
+        "price": "$39.99",
+        "label": "per year (save 33%)"
+      }
+    },
+    "cta": "Become a Member"
+  },
+  "guide": {
+    "version": "Version",
+    "tableOfContents": "Table of Contents",
+    "lastUpdated": "Last updated",
+    "by": "by",
+    "like": "Like",
+    "bookmark": "Bookmark",
+    "share": "Share",
+    "premiumTag": "Premium",
+    "unlockPrompt": {
+      "title": "Unlock This Guide",
+      "description": "This guide is exclusively available to premium members. Upgrade your membership to access this and all other premium content, including advanced builds, interactive maps, and video walkthroughs.",
+      "cta": "Upgrade to Premium"
+    }
+  },
+  "footer": {
+    "disclaimer": "This is an unofficial fan-made guide for Where Winds Meet (燕云十六声). This site is not affiliated with, endorsed by, or connected to NetEase or any of its subsidiaries. All game assets, names, and trademarks are the property of their respective owners.",
+    "copyright": "© 2026 Where Winds Meet Guide. All rights reserved. Not affiliated with NetEase.",
+    "columns": [
+      {
+        "title": "Guides",
+        "links": [
+          { "label": "Beginner's Guide", "href": "/beginners" },
+          { "label": "Class Guides", "href": "/classes" },
+          { "label": "Equipment Guide", "href": "/equipment" },
+          { "label": "Dungeon Walkthroughs", "href": "/dungeons" }
+        ]
+      },
+      {
+        "title": "Game Systems",
+        "links": [
+          { "label": "Homestead", "href": "/systems" },
+          { "label": "Crafting", "href": "/systems" },
+          { "label": "Jianghu", "href": "/systems" },
+          { "label": "Mental Energy", "href": "/systems" }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          { "label": "FAQ", "href": "/faq" },
+          { "label": "Membership", "href": "/membership" },
+          { "label": "Home", "href": "" }
+        ]
+      },
+      {
+        "title": "About",
+        "links": [
+          { "label": "About This Site", "href": "" },
+          { "label": "中文版本", "href": "/zh" }
+        ]
+      }
+    ]
+  },
+  "common": {
+    "readMore": "Read More",
+    "goToGuide": "Go to Guide",
+    "backToTop": "Back to Top",
+    "switchLang": "中文"
+  }
+}
