@@ -1,9 +1,12 @@
 import Link from "next/link";
 import { getDictionary, isValidLocale, defaultLocale, type Locale } from "@/i18n";
-import { getNewsArticle } from "@/data/news";
+import { getNewsArticle, newsArticles } from "@/data/news";
 
 export function generateStaticParams() {
-  return [{ locale: "en", slug: "pc-performance-review" }, { locale: "zh", slug: "pc-performance-review" }];
+  return newsArticles.flatMap((a) => [
+    { locale: "en", slug: a.slug },
+    { locale: "zh", slug: a.slug },
+  ]);
 }
 
 export default async function NewsArticlePage({
@@ -37,7 +40,9 @@ export default async function NewsArticlePage({
           {locale === "zh" ? "首页" : "Home"}
         </Link>
         <span>/</span>
-        <span className="text-stone-400">{locale === "zh" ? "热门资讯" : "Hot News"}</span>
+        <Link href={`/${locale}#news`} className="hover:text-amber-400">
+          {locale === "zh" ? "热门资讯" : "Hot News"}
+        </Link>
         <span>/</span>
         <span className="truncate text-stone-400">{t(article.title)}</span>
       </nav>
@@ -82,7 +87,7 @@ export default async function NewsArticlePage({
       {/* Back link */}
       <div className="mt-12 border-t border-amber-900/15 pt-8">
         <Link
-          href={`/${locale}`}
+          href={`/${locale}#news`}
           className="inline-flex items-center gap-2 text-sm text-amber-500 transition-colors hover:text-amber-400"
         >
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4">
