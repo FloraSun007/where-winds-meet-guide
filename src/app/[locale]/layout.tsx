@@ -10,7 +10,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const dict = await getDictionary(isValidLocale(locale) ? locale : defaultLocale);
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://where-winds-meet-guide.vercel.app";
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://wherewindsmeet-guide.vercel.app";
   const title = (dict.meta as Record<string, string>).siteTitle;
   const description = (dict.meta as Record<string, string>).siteDescription;
 

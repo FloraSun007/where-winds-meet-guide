@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { ENCOUNTER_QUESTS } from "@/data/encounter-quests";
 import { STORY_QUESTS } from "@/data/story-quests";
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://where-winds-meet-guide.vercel.app";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://wherewindsmeet-guide.vercel.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const locales = ["en", "zh"];
